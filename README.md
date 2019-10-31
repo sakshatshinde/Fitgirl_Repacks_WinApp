@@ -10,5 +10,5 @@
 
  https://github.com/electron/electron
 
-#Disclaimer
+# Disclaimer
  I am not affiliated with 1337x, this is just a hobby project and does not condone theft of copyrighted material in any shape or form.
